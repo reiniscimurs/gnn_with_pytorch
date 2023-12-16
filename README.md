@@ -1,37 +1,37 @@
-# グラフニューラルネットワーク（GNN）を学ぼう！【PyTorch Geometric】
-「グラフニューラルネットワーク（GNN）を学ぼう！」は、グラフニューラルネットワーク（Graph Neural Network、GNN）の入門コースです。  
-GNNは、ノード（節点）とエッジ（線）から構成されるデータ構造「グラフ」に深層学習を取り入れたニューラルネットワークです。  
-レコメンデーション、人間関係の分析、交通や物流の予測、化合物の物性推定など、様々な分野でこれまでに応用されています。  
-  
-Section1. GNNの概要  
-→ GNNの概要、および開発環境について学びます。  
-  
-Section2. GNNの基礎  
-→ GNNの基礎となる数学、およびPyTorch Geometricの使い方を学びます。  
-  
-Section3. シンプルなGNN  
-→ PyTorch Geometricを使い、シンプルなGNNを実装します。  
-  
-Section4. Graph Convolutional Networks  
-→ CNN（畳み込みニューラルネットワーク）を利用した、Graph Convolutional Networks（GCN）について学びます。  
-  
-Section5. Graph Attention Networks  
-→ 「Attention」を利用した、Graph Attention Networks（GAT）について学びます。  
-  
-Udemyコース: [グラフニューラルネットワーク（GNN）を学ぼう！](https://www.udemy.com/course/graph-gnn/?referralCode=F40ADDF6F2064E0BD103) 
+# Let's Learn Graph Neural Networks (GNN)! [PyTorch Geometric]
+"Let's Learn Graph Neural Networks!" is an introductory course to Graph Neural Networks (GNN). GNN is a neural network that incorporates deep learning into the data structure called "graph," composed of nodes and edges.
+
+GNN has been applied in various fields such as recommendation systems, analysis of human relationships, prediction in transportation and logistics, and estimation of physical properties of compounds.
+
+Section 1: Overview of GNN
+→ Learn the overview of GNN and the development environment.
+
+Section 2: Fundamentals of GNN
+→ Learn the mathematical fundamentals of GNN and how to use PyTorch Geometric.
+
+Section 3: Simple GNN
+→ Implement a simple GNN using PyTorch Geometric.
+
+Section 4: Graph Convolutional Networks
+→ Learn about Graph Convolutional Networks (GCN) using Convolutional Neural Networks (CNN).
+
+Section 5: Graph Attention Networks
+→ Learn about Graph Attention Networks (GAT) utilizing "Attention."
+
+Udemy Course: Let's Learn Graph Neural Networks (GNN)!
     
-### 自由研究室 AIRS-Lab（コミュニティ）
-「AI」をテーマに交流し、創造するWeb上のコミュニティです。  
-https://www.airs-lab.jp/  
+### Airs-Lab Open Research Laboratory (Community)
+An online community focused on exchanging ideas and creating content around the theme of "AI."
+https://www.airs-lab.jp/
   
-### News! AIRS-Lab（メルマガ）
-AIの話題、講義動画、Udemyコース割引などのAIRS-Lab最新コンテンツをメールで配信します。  
-https://www.airs-lab.jp/newsletter  
+### News! AIRS-Lab Newsletter
+Get the latest content from AIRS-Lab, including AI discussions, lecture videos, Udemy course discounts, and more, delivered to your email.
+https://www.airs-lab.jp/newsletter
   
-### AI教室 AIRS-Lab（YouTubeチャンネル）
-毎週月曜日21時に、YouTubeでライブ講義を開催しています。  
-https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q  
+### AI Classroom AIRS-Lab (YouTube Channel)
+Every Monday at 21:00, live lectures on YouTube covering various AI topics.
+https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q 
   
-### Udemyコース
-オンライン動画学習プラットフォームUdemyで、AI関連のコースを複数展開しています。  
-https://www.airs-lab.jp/lectures  
+### Udemy Courses
+Multiple AI-related courses are available on the online video learning platform Udemy.
+https://www.airs-lab.jp/lectures
